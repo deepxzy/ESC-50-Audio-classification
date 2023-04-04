@@ -17,7 +17,7 @@
 
 测试集上的准确率:
 
-![]([ESC-50-Audio-classification/checkpoints/mlp/test_accury.png](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_accury.png))
+![ESC-50-Audio-classification/checkpoints/mlp/test_accury.png](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_accury.png)
 
 
 
@@ -43,22 +43,3 @@
 | 特征维度 |                    （1，45）                    |                    （1，5）                     |                    （1，45）                    | （431, 20）  |
 |  准确率  |                      0.825                      |                      0.650                      |                      0.762                      |    0.750     |
 
-## 附录
-
-下面展示的实验程序结果原图：
-
-支持向量机：
-
-![](C:\Users\xzy123\Desktop\work\附录\svm.png)
-
-决策树：
-
-![](C:\Users\xzy123\Desktop\work\附录\clf.png)
-
-多层感知机：
-
-![](C:\Users\xzy123\Desktop\work\附录\mlp.png)
-
-循环神经网络：
-
-![](C:\Users\xzy123\Desktop\work\附录\rnn.png)
