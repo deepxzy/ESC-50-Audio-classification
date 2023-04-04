@@ -17,7 +17,7 @@
 
 测试集上的准确率:
 
-![](ESC-50-Audio-classification/checkpoints/mlp/test_accury.png)
+![]([ESC-50-Audio-classification/checkpoints/mlp/test_accury.png](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_accury.png))
 
 
 
