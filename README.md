@@ -9,15 +9,15 @@
 
 训练集上的损失函数:
 
-![ESC-50-Audio-classification/checkpoints/mlp/test_accury.png](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/train_accury.png)
+![](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/train_loss.png)
 
 测试集上的损失函数:
 
-![ESC-50-Audio-classification/checkpoints/mlp/test_accury.png](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_loss.png)
+![](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_loss.png)
 
 测试集上的准确率:
 
-![ESC-50-Audio-classification/checkpoints/mlp/test_accury.png](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_accury.png)
+![](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/mlp/test_accury.png)
 
 
 
@@ -25,7 +25,7 @@
 
 训练集上的损失函数:
 
-![](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/rnn2/train_accury.png)
+![](https://github.com/deepxzy/ESC-50-Audio-classification/blob/master/checkpoints/rnn2/train_loss.png)
 
 测试集上的损失函数:
 
