@@ -17,7 +17,7 @@
 
 测试集上的准确率:
 
-![](C:\Users\xzy123\Desktop\work\test_accury1.png)
+![](ESC-50-Audio-classification/checkpoints/mlp/test_accury.png)
 
 
 
